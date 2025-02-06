@@ -11,7 +11,7 @@ const About = () => {
         </div>
         <div className="about-right">
             <h3>Meet Our Principal</h3>
-            <h2>Comrade Solomon Ejiemili (Soji)</h2>
+            <h2>Comrade Solomon Ejiemili(Soji)</h2>
             <p>Soji Empire Foundation is a non-governmental organization dedicated to 
               driving positive change in communities by promoting education, healthcare,
                and sustainable development. We believe that every individual deserves
