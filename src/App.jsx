@@ -5,7 +5,7 @@ import Programs from './components/programs/Programs'
 import Title from './components/title/Title'
 import About from './components/about/About'
 import Campus from './components/compus/Campus'
-import Testimonials from './components/testimonials/testimonials'
+import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/footer'
 
@@ -21,7 +21,7 @@ const App = () => {
         <Title subTitle='Gallery' title='Foundation Photos'/>
         <Campus />
         <Title subTitle='TESTIMONIALS' title='What People are Saying'/>
-        <Testimonials/>
+        <Testimonials />
         <Title subTitle='Contact us' title='Get in Touch'/>
         <Contact/>
         <Footer />
