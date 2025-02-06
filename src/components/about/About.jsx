@@ -10,19 +10,19 @@ const About = () => {
             <img src={play_icon} alt='' className='play-icon' />
         </div>
         <div className="about-right">
-            <h3>About Soji Empire Foundation</h3>
-            <h2>Nurturing Tomorrow's Leaders Today</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, quaerat?
-             g elit. Reprehenderit illo nulla harum, itaque alias doloremque, nihil 
-             ut, laboriosam repellat reiciendis beatae consectetur dicta ipsum quaerat
-            sint quae minus aperiam suscipit.</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia dolore distinctio 
-             aut magnam deleniti iusto ratione doloribus doloremque eum animi quo numquam debitis. 
-             Expedita provident porro earum nam impedit.</p>
-             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam eveniet
-                suscipit sit eligendi quisquam ducimus voluptates vitae perferendis
-                cupiditate, nesciunt fugit provident! Repellat magnam harum dolorem et
-                </p>
+            <h3>Meet Our Principal</h3>
+            <h2>Comrade Solomon Ejiemili (Soji)</h2>
+            <p>Soji Empire Foundation is a non-governmental organization dedicated to 
+              driving positive change in communities by promoting education, healthcare,
+               and sustainable development. We believe that every individual deserves
+                equal opportunities to thrive, and our mission is to uplift the 
+                underprivileged through impactful initiatives.</p>
+            <p>Our mission is to empower individuals and communities by providing
+               resources, support, and programs that foster sustainable growth and 
+               development.</p>
+             <p>To create a society where every person has access to quality education,
+               healthcare, and opportunities for a better life
+              </p>
         </div>
     </div>
   )

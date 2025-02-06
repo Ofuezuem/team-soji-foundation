@@ -37,10 +37,11 @@ const Contact = () => {
     <div className='contact'>
         <div className="contact-col">
             <h3>Send Us a Message <img src={msg_icon} alt=''/></h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Quam distinctio quibusdam esse fuga, atque nam ipsum 
-                laudantium voluptatum veritatis maiores impedit ratione
-                labore excepturi hic neque aliquid culpa inventore
+            <p>We appreciate your interest in Soji Empire Foundation. 
+              Whether you have questions, ideas, or simply want to connect
+               with us, our team is here to help. Please reach out using 
+               any of the methods below or fill out the contact form,
+                and we’ll respond as soon as possible.
             </p>
             <ul> 
                 <li><img src={mail_icon} alt='' />info@sojiempire.com </li>
