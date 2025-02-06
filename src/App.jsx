@@ -7,7 +7,7 @@ import About from './components/about/About'
 import Campus from './components/compus/Campus'
 import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
-import Footer from './components/footer/footer'
+import Footer from './components/footer/Footer'
 
 const App = () => {
   return (
