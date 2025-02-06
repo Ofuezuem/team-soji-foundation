@@ -1,5 +1,5 @@
 import './About.css'
-import about_img from '../../assets/our-boss.jpg'
+import about_img from '../../assets/user-vinc.png'
 import play_icon from '../../assets/play-icon.png'
 
 const About = () => {
